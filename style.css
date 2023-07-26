@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 203, 5);
+    background-color: rgb(42, 117, 187);
+}
+
+h2, p, ul, footer, div {
+    color: white;
+    font-size: 18px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+img {
+    width: 20%;
+
+    padding-right: 50px;
+    padding-left: 500px;
+}
+
+#bulbasaur_container {
+    background-color: rgb(81, 224, 124);
+    border-style: solid;
+    border-radius: 11px;
+    border-color: rgb(236, 216, 136);
+}
+
+#charmander_container {
+    background-color: rgb(216, 140, 69);
+    border-style: solid;
+    border-radius: 11px;
+    border-color: rgb(236, 216, 136);
+}
+
+#squirtle_container {
+    background-color: rgb(69, 148, 221);
+    border-style: solid;
+    border-radius: 11px;
+    border-color: rgb(236, 216, 136);
+}
